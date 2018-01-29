@@ -1,0 +1,1 @@
+Docker image based on OpenSuse with manually installed NodeJS 8.9.4 and all build tools needed for node-gyp and other compilers
